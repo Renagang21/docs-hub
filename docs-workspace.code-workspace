@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "📚 docs-hub",
+      "path": "C:\\Users\\sohae\\OneDrive\\Coding\\docs-hub"
+    },
+    {
+      "name": "🏠 o4o-platform", 
+      "path": "C:\\Users\\sohae\\OneDrive\\Coding\\o4o-platform"
+    }
+  ],
+  "settings": {
+    "files.defaultLanguage": "markdown",
+    "workbench.startupEditor": "readme",
+    "explorer.openEditors.visible": 10
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.vscode-markdown",
+      "yzhang.markdown-all-in-one",
+      "shd101wyy.markdown-preview-enhanced"
+    ]
+  }
+}
